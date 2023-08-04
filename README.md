@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chethan Pai AKA CHEETAH</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://via.placeholder.com/150" alt="Your Avatar" width="150" height="150">
-</p>
+</p> -->
 
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheetahcodes21&label=Profile%20views&color=0e75b6&style=flat" alt="cheetahcodes21" /> </p> --->
