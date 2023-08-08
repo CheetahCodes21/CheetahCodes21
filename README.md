@@ -5,6 +5,8 @@
   <img src="https://via.placeholder.com/150" alt="Your Avatar" width="150" height="150">
 </p> -->
 
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Your Avatar" width="150" height="150">
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheetahcodes21&label=Profile%20views&color=0e75b6&style=flat" alt="cheetahcodes21" /> </p> --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheetahcodes21&label=Profile%20views&color=0e75b6&style=flat" alt="cheetahcodes21" /> </p>
