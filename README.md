@@ -56,5 +56,9 @@
   </a>
 </p>
 
+## Get in touch :
+- Your future employee on [LinkedIn](linkedin.com/in/champaion-21-mcpai)
+- And of course GitHub you're already on (Recursion).
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
