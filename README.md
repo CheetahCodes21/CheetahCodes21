@@ -60,5 +60,5 @@
 - Your future employee on [LinkedIn](linkedin.com/in/champaion-21-mcpai)
 - And of course GitHub you're already on (Recursion).
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/CheetahCodes21/CheetahCodes21/blob/main/marquee.svg" />
 <br />
