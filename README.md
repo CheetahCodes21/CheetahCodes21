@@ -1,8 +1,8 @@
-<h1 align="center">I'm Chethan Pai AKA CHEETAH</h1>
+<h1 align="center">Namaste🙏, I'm Chethan Pai AKA CHEETAH</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Namaste">
+  <img src="https://github.com/CheetahCodes21/CheetahCodes21/blob/main/banner.png" alt="Namaste">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheetahcodes21&label=Profile%20views&color=0e75b6&style=flat" alt="cheetahcodes21" /> </p> --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheetahcodes21&label=Profile%20views&color=0e75b6&style=flat" alt="cheetahcodes21" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheetahcodes21&label=Profile%20views&color=0e75b6&style=flat" alt="cheetahcodes21" /> </p> -->
 
 - 💬 Ask me about **Python,Java,C++,ReactJs,ExpressJs**
 
