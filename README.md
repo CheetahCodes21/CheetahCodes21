@@ -1,8 +1,12 @@
 <h1 align="center">Namaste🙏, I'm Chethan Pai AKA CHEETAH</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/CheetahCodes21/CheetahCodes21/blob/main/banner.png" alt="Namaste">
+</p>-->
+
+<p>
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 </p>
 
 <p align="center">
