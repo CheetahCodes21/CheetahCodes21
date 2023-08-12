@@ -57,7 +57,7 @@
 </p>
 
 ## Get in touch :
-- Your future employee on [LinkedIn](linkedin.com/in/champaion-21-mcpai)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/champaion-21-mcpai?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2VANRUjJQoOAWSBOvH5Q9Q%3D%3D)
 - And of course GitHub you're already on (Recursion).
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/CheetahCodes21/CheetahCodes21/blob/main/marquee.svg" />
