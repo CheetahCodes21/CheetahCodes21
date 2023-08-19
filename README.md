@@ -1,4 +1,9 @@
-<h1 align="center">Namaste🙏, I'm Chethan Pai AKA CHEETAH</h1>
+<!--<h1 align="center">Namaste🙏, I'm Chethan Pai AKA CHEETAH</h1>-->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste+🙏;+I'm+Chethan+Pai!;+AKA;+CHEETAH;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
 <!--<p align="center">
