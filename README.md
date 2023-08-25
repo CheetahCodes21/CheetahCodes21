@@ -1,7 +1,7 @@
 <!--<h1 align="center">Namaste🙏, I'm Chethan Pai AKA CHEETAH</h1>-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste+🙏;+I'm+Chethan+Pai!;🐾+AKA+🐾;+CHEETAH;+🔱;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste+🙏;+I'm+Chethan+Pai!;AKA+🐾;+CHEETAH;&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">A passionate Engineer from India</h3>
@@ -49,6 +49,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My GitHub Streak Stats">
 </p>-->
 
+<details>
+  <summary> 
+       Github Stats
+  </summary>
+
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=CheetahCodes21">
     <img src="https://streak-stats.demolab.com/?user=CheetahCodes21" alt="GitHub Streak" />
@@ -64,6 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheetahCodes21&hide_progress=true" alt="Top Languages" />
   </a>
 </p>
+</details>
 
 ## Get in touch :
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/champaion-21-mcpai?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2VANRUjJQoOAWSBOvH5Q9Q%3D%3D)
