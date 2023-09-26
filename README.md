@@ -8,8 +8,8 @@
 </h1>
 <h3 align="center">A passionate Engineer from India</h3>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Engineer;Computer+Science+Student;Tech+Enthusiast" alt="Headline" />
-    </div>
+        <!--<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Engineer;Tech+Enthusiast" alt="Headline" />
+    </div>-->
 
 <!--<p align="center">
   <img src="https://github.com/CheetahCodes21/CheetahCodes21/blob/main/banner.png" alt="Namaste">
@@ -46,8 +46,8 @@
     </summary>
 
 <p align="left">
-<a href="https://www.codechef.com/users/cheetah_codes" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOogadAS3G_jh00gQwpNyfqqnak5Gl0548JQ&usqp=CAU" alt="cheetah_codes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chethan_cs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chethan_cs21" height="30" width="40" /></a>
+<!--- <a href="https://www.codechef.com/users/cheetah_codes" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOogadAS3G_jh00gQwpNyfqqnak5Gl0548JQ&usqp=CAU" alt="cheetah_codes" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chethan_cs21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chethan_cs21" height="30" width="40" /></a> --->
 <a href="https://auth.geeksforgeeks.org/user/cheetah_codes" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="cheetah_codes" height="30" width="40" /></a>
 </p>
 </details>
@@ -113,4 +113,4 @@
 - And of course GitHub you're already on (Recursion).
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/CheetahCodes21/CheetahCodes21/blob/main/marquee.svg" />
-<br />
+<br /> 
